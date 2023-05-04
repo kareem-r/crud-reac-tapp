@@ -1,0 +1,33 @@
+{
+  "admins": [
+    {
+      "Name": "",
+      "Password": "",
+      "Email": "",
+      "Phone": "",
+      "Country": "",
+      "Gender": "",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "userName": "kareem",
+      "email": "kareembadawy74@gmail.com",
+      "country": "Egypy",
+      "id": 1
+    },
+    {
+      "userName": "kareem",
+      "email": "kareembadawy159@gmail.com",
+      "country": "England",
+      "id": 2
+    },
+    {
+      "userName": "ahmed",
+      "email": "kareembadawy74@gmail.com",
+      "country": "Egypy",
+      "id": 3
+    }
+  ]
+}
